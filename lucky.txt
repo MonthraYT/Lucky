@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lucky</title>
+</head>
+<body>
+<h3>FreeFun</h3>
+<p>Here at Lucky, we allow you to express yourself in any way you'd like as long as you follow the law, all is welcome here :)</p>
